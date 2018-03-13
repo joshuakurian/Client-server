@@ -1,0 +1,8 @@
+//client program
+class prints
+{
+ public ststic void main(String args[])
+ {
+  System.out.println("Hai Hello Java"); 
+ }
+}
